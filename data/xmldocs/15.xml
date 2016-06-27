@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--AFP NewsML-G2 profile-->
+<!--Processed by SyDocToNewsMLG2 rev10-->
+<newsItem standard="NewsML-G2" standardversion="2.1" guid="V0002" version="4" xml:lang="fr" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:afp="http://www.afp.com/iptc-g2/extension/2008-01-01/">
+<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_1.xml"/>
+<catalogRef href="http://newsml.afp.com/iptc-g2/catalog-2008-01-01.xml"/>
+  <rightsInfo><copyrightHolder literal="Reuters"/><copyrightNotice> 2014 Reuters</copyrightNotice></rightsInfo><itemMeta><itemClass qcode="ninat:video"/><provider literal="Reuters"/><versionCreated>2009-02-11</versionCreated><firstCreated>2009-02-11</firstCreated><pubStatus qcode="stat:usable"/><title>Hillary Clinton interview 2014: Edward Snowden, ISIS, drone strikes and women's rights</title></itemMeta><contentMeta><contentCreated>2009-02-11</contentCreated><contentModified>2009-02-11</contentModified><located type="cptype:country" qcode="country:GRM"><name>Germany</name></located><creator literal=" Georges Gobet"/><contributor role="jrole:captionWriter" literal="fp/bl/fg"/><altId type="idtype:systemRef">Par160297</altId><altId type="idtype:transmitRef">ANG33</altId><language tag="en"/><genre qcode="genre:Interview">
+    <name xml:lang="en">Interview</name> 
+  </genre><genre qcode="genre:International relations">
+    <name xml:lang="en">International relations</name> 
+  </genre>
+    <genre qcode="genre:Politics">
+      <name xml:lang="en">Politics</name> 
+    </genre>
+    <keyword>Hillary Clinton </keyword>
+    <keyword>women's rights</keyword>
+    <keyword>ISIS</keyword>
+    <keyword>International relations</keyword>
+    <keyword>Arianna Huffington</keyword>
+    <keyword>Institute for Science and International Security</keyword>
+    <keyword>drone strikes</keyword>
+    <keyword>Edward Snowden</keyword>
+    <subject type="cpnat:person" qcode="squ:15000006"><name>Hillary Clinton</name></subject>
+    <subject type="cpnat:person" qcode="squ:15000006"><name>Alan Rusbridger</name></subject>
+    <subject type="cpnat:person" qcode="squ:15000006"><name>Arianna Huffington</name></subject>
+    <subject type="cpnat:person" qcode="squ:15000006"><name>Edward Snowden</name></subject>
+    <subject type="cpnat:person" qcode="squ:15000006"><name>Owen Jones</name></subject>
+    <subject type="cpnat:person" qcode="squ:15000006"><name>Phoebe Greenwood</name></subject>
+    <subject type="cpnat:person" qcode="squ:15000006"><name>Sarah Silverman</name></subject>
+    
+    
+    <subject type="cpnat:poi"><name>European Union</name></subject><subject type="cpnat:poi"><name>Siemens Aktiengesellschaft</name></subject><subject type="cpnat:poi"><name>Alstom</name></subject><subject type="cpnat:abstract" qcode="subj:03015001"><name>Politics</name></subject><subject type="cpnat:geoArea"><name>USA</name></subject><creditline>Reuters</creditline><headline>Hillary Clinton, the former US Secretary of State, joins Phoebe Greenwood to discuss Edward Snowden, the NSA, drone strikes in Pakistan, the war in Iraq and whether the US contributed to the creation of the current threat from ISIS. Secretary Clinton is in the UK promoting Hard Choices, her new memoir and took questions from Sarah Silverman, Owen Jones, Alan Rusbridger and Arianna Huffington.</headline><description role="drol:caption">Hillary Clinton, the former US Secretary of State, joins Phoebe Greenwood to discuss Edward Snowden, the NSA, drone strikes in Pakistan, the war in Iraq and whether the US contributed to the creation of the current threat from ISIS. Secretary Clinton is in the UK promoting Hard Choices, her new memoir and took questions from Sarah Silverman, Owen Jones, Alan Rusbridger and Arianna Huffington. The former US secretary of state Hillary Clinton has said Edward Snowden should have the right to launch a legal and public defence of his decision to leak top-secret documents if he returns to the United States.
+      
+      "If he wishes to return knowing he would be held accountable and also able to present a defence, that is his decision to make," Clinton said in a video interview with the Guardian on Friday.
+      
+      Snowden, who is currently in Russia where he has been afforded temporary asylum, has been charged with three separate violations of the US Espionage Act. These charges include stealing government property and sharing classified documents with the Guardian and the Washington Post.
+      
+      The broadly worded law makes no distinction between a spy and a whistleblower and affords Snowden almost no recourse to a defence.
+      
+      The former NSA employee is likely to face a number of additional charges should he return to the US.
+      
+      When Clinton was asked if she believed the Espionage Act – passed in 1917 – should be reformed in order to allow Snowden a defence, she claimed not to know what the whistleblower had been charged with as they were "sealed indictments".
+      
+      "In any case that I'm aware of as a former lawyer, he has a right to mount a defence," she said. "And he certainly has a right to launch both a legal defence and a public defence, which can of course affect the legal defence.
+      
+      "Whether he chooses to return or not is up to him. He certainly can stay in Russia, apparently under Putin's protection, for the rest of his life if that's what he chooses. But if he is serious about engaging in the debate then he could take the opportunity to come back and have that debate. But that's his decision."
+      
+      Amid the ongoing and substantial aftershocks following the Snowden revelations, Keir Starmer, Britain's former director of public prosecutions, has drafted new legal guidelines seeking to protect journalists in the UK who break the law in pursuit of investigations that have genuine public interest.
+      
+      "Defining of the public interest is always very, very difficult. We did go through a consultation exercise on that and I think we've got it about right," he told the Guardian in October.
+      
+      Snowden's legal team have stated that lack of recourse to a public interest defence is a key obstacle to the whistleblower returning to the US.
+      
+      Ben Wizner, a lawyer with the American Civil Liberties Union, said: "The laws would not provide him any opportunity to say that the information never should have been withheld from the public in the first place.
+      
+      "And the fact that the disclosures have led to the highest journalism rewards, have led to historic reforms in the US and around the world – all of that would be irrelevant in a prosecution under the espionage laws in the United States."
+      
+      In an exclusive streamed video interview with the Guardian, Clinton also expressed regret that a proposal two years ago by General Sir David Richards – then the most senior British military officer – to train 100,000 moderate rebels to fight the Assad regime in Syria was rejected by David Cameron, who deemed it too risky. The proposal was similar to one that Clinton, as secretary of state, proposed to US president Barack Obama, which was also rejected.
+      
+      "I'm not aware of the specifics about any proposal to the British government but like our government I knew there was debate because I was advocating for trying to vet, train and arm Syrian moderates," Clinton said.
+      
+      "In the debate you couldn't say conclusively if you do this you'll get that result, but I thought it was a good bet. Now what we see is our government and others beginning to train moderates to try to stem the tide of the extremism, because it's not just Isis it's a whole range of these al-Qaida wannabe offshoots that we have to worry about." Clinton, who is on a two-day tour of the UK promoting her new memoir Hard Choices – an account of her four years as secretary of state – said she had not yet decided whether or not she intends to run for president in 2016.
+      
+      "I really want to feel my way towards a decision," she told the Guardian. "I understand what I think needs to be done … I'm just going to bide my time."</description></contentMeta><contentSet><remoteContent rendition="rnd:highRes" contenttype="flv" href="//v52.mp4" size="1792123" durationunit="timeunit:seconds" duration="550" width="2200" height="1552"/><remoteContent rendition="rnd:preview" contenttype="image/jpeg" href="tag:afp.com,2005:AFP-PH:Par160297:2" size="61425" width="768" height="542"/><remoteContent rendition="rnd:thumbnail" contenttype="image/jpeg" href="tag:afp.com,2005:AFP-PH:Par160297:3" size="7302" width="192" height="135"/></contentSet></newsItem>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--AFP NewsML-G2 profile-->
+<!--Processed by SyDocToNewsMLG2 rev10-->
+<newsItem standard="NewsML-G2" standardversion="2.1" guid="V0002" version="4" xml:lang="fr" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:afp="http://www.afp.com/iptc-g2/extension/2008-01-01/">
+    <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_1.xml"/>
+    <catalogRef href="http://newsml.afp.com/iptc-g2/catalog-2008-01-01.xml"/>
+    <rightsInfo>
+        <copyrightHolder literal="Reuters"/>
+        <copyrightNotice> 2014 Reuters</copyrightNotice>
+    </rightsInfo>
+    <itemMeta>
+        <itemClass qcode="ninat:video"/>
+        <provider literal="Reuters"/>
+        <versionCreated>2009-02-11</versionCreated>
+        <firstCreated>2009-02-11</firstCreated>
+        <pubStatus qcode="stat:usable"/>
+        <title>Teen survivor of Boko Haram attack meets U.S. lawmakers</title>
+    </itemMeta>
+    <contentMeta>
+        <contentCreated>2009-02-11</contentCreated>
+        <contentModified>2009-02-11</contentModified>
+        <located type="cptype:country" qcode="country:NGR">
+            <name>Nigeria</name>
+        </located>
+        <creator literal=" Georges Gobet"/>
+        <contributor role="jrole:captionWriter" literal="fp/bl/fg"/>
+        <altId type="idtype:systemRef">Par160297</altId>
+        <altId type="idtype:transmitRef">ANG33</altId>
+        <language tag="en"/>
+        <genre qcode="genre:Quote">
+            <name xml:lang="fr">Quote</name> 
+        </genre>
+        <genre qcode="genre:War Conflict">
+            <name xml:lang="fr">War Conflict</name> 
+        </genre>
+        <genre qcode="genre:Religion Belief">
+            <name xml:lang="fr">Religion Belief</name> 
+        </genre>
+        <keyword>Islam</keyword>
+        <keyword>Religion Belief</keyword>
+        <keyword>Boko Haram</keyword>
+        <keyword>War conflits</keyword>
+        <keyword>Geography of Africa</keyword>
+        <keyword>Attacks</keyword>
+        <keyword>Islamic terrorism</keyword>
+        <subject type="cpnat:person" qcode="squ:15000006">
+            <name>Deborah Peters</name>
+        </subject>
+        <subject type="cpnat:person" qcode="squ:15000006">
+            <name>Ed Royce</name>
+        </subject>
+        <subject type="cpnat:person" qcode="squ:15000006">
+            <name>Eliot Engel</name>
+        </subject>
+        <subject type="cpnat:poi">
+            <name>Boko Haram</name>
+        </subject>
+        <subject type="cpnat:poi">
+            <name>Islamist</name>
+        </subject>
+        <subject type="cpnat:poi">
+            <name>House Foreign Affairs Committee</name>
+        </subject>
+        <subject type="cpnat:poi">
+            <name>Congress</name>
+        </subject>
+        <subject type="cpnat:abstract" qcode="subj:03004000">
+            <name>War Conflict</name>
+        </subject>
+        <subject type="cpnat:abstract" qcode="subj:03015001">
+            <name>Politics</name>
+        </subject>
+        <subject type="cpnat:abstract" qcode="subj:03014000">
+            <name>Chibok</name>
+        </subject>
+        <subject type="cpnat:geoArea">
+            <name>United Kingdom</name>
+        </subject>
+        <subject type="cpnat:geoArea">
+            <name>United States</name>
+        </subject>
+        <subject type="cpnat:geoArea">
+            <name>Nigeria</name>
+        </subject>
+        <creditline>Reuters</creditline>
+        <headline>May 21 - Deborah Peters, a 15-year-old Nigerian girl who survived a 2011 attack by Boko Haram, tells members of the U.S. Congress that the militants killed her father that night for refusing to renounce his Christian faith. Rough Cut</headline>
+        <description role="drol:caption">ROUGH CUT (NO REPORTER NARRATION) A 15-year-old girl and survivor of a 2011 attack in Nigeria by the Islamist militant group Boko Haram recounted her experience to members of Congress on Wednesday (May 21), describing the killing of her father and brother before her eyes. Deborah Peters met with Representatives Ed Royce and Eliot Engel, chair and ranking member of the House Foreign Affairs Committee, to testify about her experience living under threats by the militant group, which stoked international condemnation when it abducted more than 200 schoolgirls last month from the northeast village of Chibok. At a news conference on Capitol Hill, she described watching as Boko Haram militants arrived at her home in 2011 and demanded that her father, a Christian, renounce his faith. "My dad refused to deny this faith. He didn't give up," Peters said. "He told them God says anyone that denies him in front of people, He's going to deny them in Heaven. That's how they shoot him in his chest, three times," she said. Boko Haram's five-year-old insurgency is aimed at reviving a medieval Islamic caliphate in modern Nigeria, whose 170 million people are split roughly evenly between Christians and Muslims. Peters is from the northeast village of Chibok in Nigeria where last month's schoolgirl abduction took place. Some of the kidnapped girls managed to escape, but most remain missing. The abduction and the slow response has sharpened criticism of the Nigerian government's handling of the crisis. Several countries, including the United States and Britain, have offered support in the search for the girls. Nigeria is riven by political, regional and religious tensions as well as long-standing grievances over how its oil wealth should be shared.</description>
+    </contentMeta>
+    <contentSet>
+        <remoteContent rendition="rnd:highRes" contenttype="flv" href="//v48.flv" size="1792123" durationunit="timeunit:seconds" duration="550" width="2200" height="1552"/>
+        <remoteContent rendition="rnd:preview" contenttype="image/jpeg" href="tag:afp.com,2005:AFP-PH:Par160297:2" size="61425" width="768" height="542"/>
+        <remoteContent rendition="rnd:thumbnail" contenttype="image/jpeg" href="tag:afp.com,2005:AFP-PH:Par160297:3" size="7302" width="192" height="135"/>
+    </contentSet>
+</newsItem>
